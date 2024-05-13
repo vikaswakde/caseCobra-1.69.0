@@ -1,0 +1,69 @@
+{
+    "liveServer.settings.donotShowInfoMsg": true,
+    "tabnine.experimentalAutoImports": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "Vesper",
+    "rapidapi.terminalLink.enabled": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "codeium.enableSearch": true,
+    "editor.formatOnSave": true,
+    "git.autofetch": true,
+    "codeium.enableConfig": {
+        "*": true,
+        "html": false,
+        "python": false,
+        "css": false,
+        "javascriptreact": false
+    },
+    "editor.inlineSuggest.showToolbar": "always",
+    "emmet.variables": {
+        "lang": "en"
+    },
+    "html-css-class-completion.enableEmmetSupport": true,
+    "terminal.integrated.commandsToSkipShell": [
+        "\"emmet.triggerExpansionOnTab\": true"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.defaultLanguage": "html css js",
+    "explorer.compactFolders": false,
+    "console-ninja.featureSet": "Community",
+    "editor.fontSize": 17,
+    "RainbowBrackets.depreciation-notice": false,
+    "terminal.integrated.env.linux": {},
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorSmoothCaretAnimation": "on",
+    "vscodeGoogleTranslate.preferredLanguage": "English",
+    "google-translate.firstLanguage": "en",
+    "console-ninja.warnOnNoToolsDetected": false,
+    "explorer.confirmDelete": false,
+    "chat.editor.wordWrap": "on",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "keyboard.dispatch": "keyCode",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.startupEditor": "none",
+    "editor.lineHeight": 22,
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "'Dank Mono'",
+    "workbench.sideBar.location": "right",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "files.autoSave": "afterDelay",
+    "errorLens.enabled": false
+}
